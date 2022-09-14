@@ -1,0 +1,38 @@
+<style>.header {
+    height: 50px;
+    background: #00BCD4;
+}
+
+.footer {
+    background: #673AB7;
+    height: 250px;
+}
+
+.main {
+    display: flex;
+    flex: 1;
+}
+
+.left_navigation {
+    background: #3F51B5;
+    flex: 1;
+}
+
+.main_content {
+    background: #03A9F4;
+    flex: 1;
+}
+
+.right_navigation {
+    background: #2196F3;
+    flex: 1;
+}
+
+.inner-left-nav {
+    position: sticky;
+    top: 0;
+    height: auto;
+    max-height: 100%;
+}
+
+</style><div class="main_page"><div class="header">header</div><div class="main"><div class="left_navigation"><div class="inner-left-nav">left nav<br>left nav<br>left nav<br>left nav<br>left nav<br>left nav<br>left nav<br>left nav<br>left nav<br>left nav<br>left nav<br>left nav<br>left nav<br>left nav<br>left nav<br>left nav<br>left nav<br>left nav<br>left nav<br>left nav<br></div></div><div class="main_content"><p>main content here main content here main content here main content here main content here main content here main content here main content here </p><p>main content here main content here main content here main content here main content here main content here main content here main content here </p><p>main content here main content here main content here main content here main content here main content here main content here main content here </p><p>main content here main content here main content here main content here main content here main content here main content here main content here </p><p>main content here main content here main content here main content here main content here main content here main content here main content here </p><p>main content here main content here main content here main content here main content here main content here main content here main content here </p><p>main content here main content here main content here main content here main content here main content here main content here main content here </p><p>main content here main content here main content here main content here main content here main content here main content here main content here </p><p>main content here main content here main content here main content here main content here main content here main content here main content here </p><p>main content here main content here main content here main content here main content here main content here main content here main content here </p><p>main content here main content here main content here main content here main content here main content here main content here main content here </p><p>main content here main content here main content here main content here main content here main content here main content here main content here </p><p>main content here main content here main content here main content here main content here main content here main content here main content here </p><p>main content here main content here main content here main content here main content here main content here main content here main content here </p><p>main content here main content here main content here main content here main content here main content here main content here main content here </p><p>main content here main content here main content here main content here main content here main content here main content here main content here </p><p>main content here main content here main content here main content here main content here main content here main content here main content here </p><p>main content here main content here main content here main content here main content here main content here main content here main content here </p><p>main content here main content here main content here main content here main content here main content here main content here main content here </p><p>main content here main content here main content here main content here main content here main content here main content here main content here </p><p>main content here main content here main content here main content here main content here main content here main content here main content here </p><p>main content here main content here main content here main content here main content here main content here main content here main content here </p><p>main content here main content here main content here main content here main content here main content here main content here main content here </p><p>main content here main content here main content here main content here main content here main content here main content here main content here </p></div><div class="right_navigation">right nav</div></div><div class="footer"></div></div>
