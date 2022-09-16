@@ -108,7 +108,7 @@ define('WP_DEBUG_DISPLAY', false);
       </ul>
     </header>
     <div class="mid">
-      <h1>Take a look<br />Buy later</h1>
+      <h1 class="look">Take a look<br />Buy later</h1>
 
       <div class="wrapper">
 
